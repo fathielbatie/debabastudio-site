@@ -1,0 +1,3 @@
+# Authorized ad sellers for Debaba Studio Productions games (Glowgrid)
+# One line per ad network: domain, publisher account ID, relationship, certification ID.
+google.com, pub-1440814094721434, DIRECT, f08c47fec0942fa0
