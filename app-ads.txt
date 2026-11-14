@@ -204,3 +204,6 @@ bidmachine.io, 1539, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33149, RESELLER
 rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
 indexexchange.com, 216408, RESELLER, 50b1c356f2c5c8fc
+
+# InMobi (account cb60d5e69af942158facf7a52328e8c7)
+inmobi.com, cb60d5e69af942158facf7a52328e8c7, DIRECT, 83e75a7ae333ca9d
